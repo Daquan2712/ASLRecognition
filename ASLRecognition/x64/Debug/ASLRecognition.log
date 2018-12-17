@@ -1,0 +1,22 @@
+﻿  ASLRecognition.cpp
+d:\clark-fall2018\cs262-computer vision\finalproject\cs262-finalproject\aslrecognition\aslrecognition.cpp(75): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\clark-fall2018\cs262-computer vision\finalproject\cs262-finalproject\aslrecognition\aslrecognition.cpp(106): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\clark-fall2018\cs262-computer vision\finalproject\cs262-finalproject\aslrecognition\aslrecognition.cpp(142): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\clark-fall2018\cs262-computer vision\finalproject\cs262-finalproject\aslrecognition\aslrecognition.cpp(173): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\clark-fall2018\cs262-computer vision\finalproject\cs262-finalproject\aslrecognition\aslrecognition.cpp(105): warning C4101: 'result': unreferenced local variable
+d:\clark-fall2018\cs262-computer vision\finalproject\cs262-finalproject\aslrecognition\aslrecognition.cpp(222): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+d:\clark-fall2018\cs262-computer vision\finalproject\cs262-finalproject\aslrecognition\aslrecognition.cpp(225): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+d:\clark-fall2018\cs262-computer vision\finalproject\cs262-finalproject\aslrecognition\aslrecognition.cpp(277): warning C4244: 'argument': conversion from '_Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  ASLRecognition.vcxproj -> D:\Clark-Fall2018\CS262-Computer Vision\FinalProject\CS262-FinalProject\x64\Debug\ASLRecognition.exe
